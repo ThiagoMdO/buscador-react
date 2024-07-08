@@ -1,3 +1,13 @@
+# React + VIACEP API
+
+<h1 align="center" style="text-align: center; background-color: #000; border-radius: 10px">  
+    <img src = "https://github.com/ThiagoMdO/buscador-react/assets/128644651/2316486b-2aa3-4b55-8881-081e86dd549b" style="margin-top: 10px; height: 300px; width: 300px ">
+    <img src = "https://github.com/ThiagoMdO/buscador-react/assets/128644651/3c1c3aab-3f2f-42b2-ac1e-90a60586f11c" style="margin-top: 10px; height: 300px; width: 300px ">
+    <p style="text-shadow : 1px 1px 10px orange">Buscador CEP</p>
+</h1>
+
+> ### The application is responsible for querying via a zip code, searching via the VIACEP API, displaying physical address information such as Street, Complement, Neighborhood, City and State."
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
